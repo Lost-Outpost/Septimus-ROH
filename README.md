@@ -39,7 +39,14 @@ Pulled from the Mod Page.
    - This mod places some extra crafting stations near the Terminan Forge
    - Install it under the name **[NoDelete] Relics of Hyrule SE - Magic Crafting at Terminan Forge**
    - Ignore the Zora Patch and Keyword Patch. Those are included in the final patch
-7. Install The Septimus ROH Patch Matching Your Version from the [Release Page](https://github.com/Lost-Outpost/Septimus-ROH/releases)
+7. (Very Optional) Install [Classic Zelda music for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/4827)
+   - Install it under the name **[NoDelete] Classic Zelda music for Skyrim SE**
+   - You can choose music or sound.
+9. (Very Optional) Install [Zelda - Majoras Mask Moon](https://www.nexusmods.com/fallout4/mods/11715)
+   - Install it under the name **[NoDelete] Majora's Mask Moon with Phases**
+   - While this is a fallout mod. It still works for Skyrim SE.
+   - IF you don't want 2 Majora's Moons. Go into the mod folder and delete the files for either Secunda or Masswer
+10. Install The Septimus ROH Patch Matching Your Version from the [Release Page](https://github.com/Lost-Outpost/Septimus-ROH/releases)
 
 # Positioning
 1. You do not have to position the mods on the **left panel**
