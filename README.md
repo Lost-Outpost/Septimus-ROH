@@ -24,8 +24,9 @@ Pulled from the Mod Page.
 2. (Optional) If you don't want fairies, Install the [Disable and Silence Fairies](https://www.nexusmods.com/skyrimspecialedition/mods/12244).
    - Install under the name **[NoDelete] Relics of Hyrule SE - Fairy Replacer**
    - (You can optionally use this to remove the audio or visuals of the fairies if you edit the files within)
-3. (Optional) Install the [Skulltula Replacer - Arachnophobia Patch - January 6 2020](https://www.nexusmods.com/skyrimspecialedition/mods/12244).
+3. (Optional) If you don't want to deal with Skulltula, Install the [Skulltula Replacer - Arachnophobia Patch - January 6 2020](https://www.nexusmods.com/skyrimspecialedition/mods/12244).
    - Install under the name **[NoDelete] Relics of Hyrule SE - Skulltula Replacer**
+   - It replaces all instances and references of Skulltula, Pesto, and Scissor Beetles with variants of crabs. This includes the Skulltula House, which becomes a Crab House.
 4. (Optional) Installing Hall of Forgotten Support for Relics of Hyrule
    1. Download [Legacy of the Dragonborn - Hall of Forgotten](https://www.nexusmods.com/skyrimspecialedition/mods/64117)
    2. Install it under the name **[NoDelete] Legacy of the Dragonborn - Hall of Forgotten - Relics of Hyrule**
@@ -39,4 +40,12 @@ Pulled from the Mod Page.
    - Install it under the name **[NoDelete] Relics of Hyrule SE - Magic Crafting at Terminan Forge**
    - Ignore the Zora Patch and Keyword Patch. Those are included in the final patch
 7. Install The Septimus ROH Patch from the Release Page
+
+# Positioning
+1. You do not have to position the mods on the **left panel**
+   - ![image](https://user-images.githubusercontent.com/2394842/169926156-5ee38e8d-feef-4950-a2db-05da37ebda21.png)
+2. What you want to position is the mods in the **right panel** under **Plugins**
+   - ![image](https://user-images.githubusercontent.com/2394842/169926247-9ea07e56-1d40-4ab4-9ce6-e886b7e0e6e8.png)
+3. Select the above mods and drag them above the mod **DBM_RelicHunter.esp**
+   - ![image](https://user-images.githubusercontent.com/2394842/169926415-ed9ada57-793f-4ec0-b837-7b972bf88e97.png)
 
