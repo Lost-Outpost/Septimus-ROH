@@ -44,7 +44,7 @@ Pulled from the Mod Page.
 9. (Very Optional) If you want Zelda Sound FX and/or music. Install [Classic Zelda music for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/4827)
    - Install it under the name **[NoDelete] Classic Zelda music for Skyrim SE**
    - You can choose music or sound.
-10. (Very Optional) If you want Majora's Moon in the Sky. Install [Zelda - Majoras Mask Moon](https://www.nexusmods.com/fallout4/mods/11715)
+0. (Very Optional) If you want Majora's Moon in the Sky. Install [Zelda - Majoras Mask Moon](https://www.nexusmods.com/fallout4/mods/11715)
    - Install it under the name **[NoDelete] Majora's Mask Moon with Phases**
    - While this is a fallout mod. It still works for Skyrim SE.
    - IF you don't want 2 Majora's Moons. Go into the mod folder and delete the files for either Secunda or Masswer
