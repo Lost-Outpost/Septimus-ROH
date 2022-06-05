@@ -21,6 +21,10 @@ Pulled from the Mod Page.
 1. Download [Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/12244). 
    - Do not install the Hotfix.
    - Install it under the name **[NoDelete] Relics of Hyrule SE**
+2. Install The Septimus ROH Patch Matching Your Version from the [Release Page](https://github.com/Lost-Outpost/Septimus-ROH/releases)
+
+# Optionals.  
+**These are all optional files. Installing them definitely puts you in "MODIFIED SEPTIMUS" territory.  Please use the #Septimus-ROH channel or #septimus-modifications channels for support.**
 2. (Optional) If you don't want fairies, Install the [Disable and Silence Fairies](https://www.nexusmods.com/skyrimspecialedition/mods/12244).
    - Install under the name **[NoDelete] Relics of Hyrule SE - Fairy Replacer**
    - (You can optionally use this to remove the audio or visuals of the fairies if you edit the files within)
@@ -48,7 +52,6 @@ Pulled from the Mod Page.
    - Install it under the name **[NoDelete] Majora's Mask Moon with Phases**
    - While this is a fallout mod. It still works for Skyrim SE.
    - IF you don't want 2 Majora's Moons. Go into the mod folder and delete the files for either Secunda or Masswer
-11. Install The Septimus ROH Patch Matching Your Version from the [Release Page](https://github.com/Lost-Outpost/Septimus-ROH/releases)
 
 # Positioning
 1. You do not have to position the mods on the **left panel**
