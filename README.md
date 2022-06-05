@@ -21,19 +21,19 @@ Pulled from the Mod Page.
 1. Download [Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/12244). 
    - Do not install the Hotfix.
    - Install it under the name **[NoDelete] Relics of Hyrule SE**
-2. Install The Septimus ROH Patch Matching Your Version from the [Release Page](https://github.com/Lost-Outpost/Septimus-ROH/releases)
-   - Install it under the name **[NoDelete] Septimus - Relics of Hyrule**
-
-# Optionals.  
-**These are all optional files. Installing them definitely puts you in "MODIFIED SEPTIMUS" territory.  Please use the #Septimus-ROH channel or #septimus-modifications channels for support.**
-
-1. (Optional) If you don't want fairies, Install the [Disable and Silence Fairies](https://www.nexusmods.com/skyrimspecialedition/mods/12244).
+2. (Optional) If you don't want fairies, Install the [Disable and Silence Fairies](https://www.nexusmods.com/skyrimspecialedition/mods/12244).
    - Install under the name **[NoDelete] Relics of Hyrule SE - Fairy Replacer**
    - (You can optionally use this to remove the audio or visuals of the fairies if you edit the files within)
 3. (Optional) If you don't want to deal with Skulltula, Install the [Skulltula Replacer - Arachnophobia Patch - January 6 2020](https://www.nexusmods.com/skyrimspecialedition/mods/12244).
    - Install under the name **[NoDelete] Relics of Hyrule SE - Skulltula Replacer**
    - It replaces all instances and references of Skulltula, Pesto, and Scissor Beetles with variants of crabs. This includes the Skulltula House, which becomes a Crab House.
-4. (Optional) If you are using LOTD. Installing Hall of Forgotten Support for Relics of Hyrule
+4. Install The Septimus ROH Patch Matching Your Version from the [Release Page](https://github.com/Lost-Outpost/Septimus-ROH/releases)
+   - Install it under the name **[NoDelete] Septimus - Relics of Hyrule**
+
+# Optionals.  
+**These are all optional files. Installing them definitely puts you in "MODIFIED SEPTIMUS" territory.  Please use the #Septimus-ROH channel or #septimus-modifications channels for support.**
+
+1. (Optional) If you are using LOTD. Installing Hall of Forgotten Support for Relics of Hyrule
    1. Download [Legacy of the Dragonborn - Hall of Forgotten](https://www.nexusmods.com/skyrimspecialedition/mods/64117)
    2. Install it under the name **[NoDelete] Legacy of the Dragonborn - Hall of Forgotten - Relics of Hyrule**
    3. Download [LOTD Hall of Forgotten TCC Patches](https://www.nexusmods.com/skyrimspecialedition/mods/64840)
