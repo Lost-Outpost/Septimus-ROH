@@ -47,9 +47,9 @@ Pulled from the Mod Page.
    - Ignore the Zora Patch and Keyword Patch. Those are included in the final patch
 7. (Optional) If you want Boomerangs, which currently aren't in Relics of Hyrule.... Install [Throwable Items - Throwable Shields Boomerangs Torches and Oh My](https://www.nexusmods.com/skyrimspecialedition/mods/44627).  
    - It has zero conflicts with Septimus, so it is a good fit. 
-   - Install it under the name **[NoDelete] Throwable Items - Adamant Patch**
+   - Install it under the name **[NoDelete] Throwable Items**
    - Also Install the [Throwable Items - Adamant Patch](https://www.nexusmods.com/skyrimspecialedition/mods/69234) 
-      - Install it under the name **[NoDelete] Throwable Items**
+      - Install it under the name **[NoDelete] Throwable Items - Adamant Patch**
 9. (Very Optional) If you want Zelda Sound FX and/or music. Install [Classic Zelda music for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/4827)
    - Install it under the name **[NoDelete] Classic Zelda music for Skyrim SE**
    - You can choose music or sound.
