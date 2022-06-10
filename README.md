@@ -37,7 +37,7 @@ Pulled from the Mod Page.
    1. Download [Legacy of the Dragonborn - Hall of Forgotten](https://www.nexusmods.com/skyrimspecialedition/mods/64117)
    2. Install it under the name **[NoDelete] Legacy of the Dragonborn - Hall of Forgotten - Relics of Hyrule**
    3. Download [LOTD Hall of Forgotten TCC Patches](https://www.nexusmods.com/skyrimspecialedition/mods/64840)
-   4. Install it under the name **[NoDelete] Legacy of the Dragonborn - Hall of Forgotten - TCC**
+   4. Install it under the name **[NoDelete] Legacy of the Dragonborn - Hall of Forgotten - ROH TCC**
 5. (Optional) If you want to harvest ROH plants. Install [Webmetz's More Growable Plants - Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/65912)
    - This mod allows you to plant bomb flowers and deku nuts
    - Install it under the name **[NoDelete] Relics of Hyrule SE - More Growables**
