@@ -29,6 +29,7 @@ Pulled from the Mod Page.
    - It replaces all instances and references of Skulltula, Pesto, and Scissor Beetles with variants of crabs. This includes the Skulltula House, which becomes a Crab House.
 4. Install The Septimus ROH Patch Matching Your Version from the [Release Page](https://github.com/Lost-Outpost/Septimus-ROH/releases)
    - Install it under the name **[NoDelete] Septimus - Relics of Hyrule**
+   - 
 
 # Optionals.  
 **These are all optional files. Installing them definitely puts you in "MODIFIED SEPTIMUS" territory.  Please use the #Septimus-ROH channel or #septimus-modifications channels for support.**
@@ -37,7 +38,7 @@ Pulled from the Mod Page.
    1. Download [Legacy of the Dragonborn - Hall of Forgotten](https://www.nexusmods.com/skyrimspecialedition/mods/64117)
    2. Install it under the name **[NoDelete] Legacy of the Dragonborn - Hall of Forgotten - Relics of Hyrule**
    3. Download [LOTD Hall of Forgotten TCC Patches](https://www.nexusmods.com/skyrimspecialedition/mods/64840)
-   4. Install it under the name **[NoDelete] Legacy of the Dragonborn - Hall of Forgotten - ROH TCC**
+   4. Install it under the name **[NoDelete] Legacy of the Dragonborn - Hall of Forgotten - TCC**
 5. (Optional) If you want to harvest ROH plants. Install [Webmetz's More Growable Plants - Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/65912)
    - This mod allows you to plant bomb flowers and deku nuts
    - Install it under the name **[NoDelete] Relics of Hyrule SE - More Growables**
@@ -62,6 +63,6 @@ Pulled from the Mod Page.
 1. You do not have to position the mods on the **left panel**
    - ![image](https://user-images.githubusercontent.com/2394842/169926156-5ee38e8d-feef-4950-a2db-05da37ebda21.png)
 2. What you want to position is the mods in the **right panel** under **Plugins**
-   - ![image](https://user-images.githubusercontent.com/2394842/169926247-9ea07e56-1d40-4ab4-9ce6-e886b7e0e6e8.png)
-3. Select the above mods and drag them above the mod **DBM_RelicHunter.esp**
-   - ![image](https://user-images.githubusercontent.com/2394842/169926415-ed9ada57-793f-4ec0-b837-7b972bf88e97.png) 
+   - ![image](https://user-images.githubusercontent.com/2394842/172982444-0280ff15-3641-4f06-8647-c7e6ca947a5f.png)
+3. Select the above mods and drag them above the mod **DBM_RelicHunter.esp**. Leave `RelicsofHyruleDragonborn-LOTD-TeenWolf.esp` where it is. It needs to overwrite a Septimus Conflict Patch.  Depending on your optionals, you might not have some of the mods listed above.
+   - ![image](https://user-images.githubusercontent.com/2394842/172982603-4ce89e0f-caa3-41fa-bfb5-c62f55d10e29.png)
