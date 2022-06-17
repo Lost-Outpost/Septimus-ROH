@@ -34,15 +34,15 @@ Pulled from the Mod Page.
 # Optionals.  
 **These are all optional files. Installing them definitely puts you in "MODIFIED SEPTIMUS" territory.  Please use the #Septimus-ROH channel or #septimus-modifications channels for support.**
 
-1. (Optional) If you are using LOTD. Installing Hall of Forgotten Support for Relics of Hyrule
-   1. Download [Legacy of the Dragonborn - Hall of Forgotten](https://www.nexusmods.com/skyrimspecialedition/mods/64117)
-   2. Install it under the name **[NoDelete] Legacy of the Dragonborn - Hall of Forgotten - Relics of Hyrule**
-   3. Download [LOTD Hall of Forgotten TCC Patches](https://www.nexusmods.com/skyrimspecialedition/mods/64840)
-   4. Install it under the name **[NoDelete] Legacy of the Dragonborn - Hall of Forgotten - TCC**
-5. (Optional) If you want to harvest ROH plants. Install [Webmetz's More Growable Plants - Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/65912)
+1.WARNING HALL OF FORGOTTEN IS NOT COMPATIBLE WITH THE LATEST UPDATE.  ~~(Optional) If you are using LOTD. Installing Hall of Forgotten Support for Relics of Hyrule~~
+   - ~~Download [Legacy of the Dragonborn - Hall of Forgotten](https://www.nexusmods.com/skyrimspecialedition/mods/64117)~~
+   - ~~Install it under the name **[NoDelete] Legacy of the Dragonborn - Hall of Forgotten - Relics of Hyrule**~~
+   - ~~Download [LOTD Hall of Forgotten TCC Patches](https://www.nexusmods.com/skyrimspecialedition/mods/64840)~~
+   - ~~Install it under the name **[NoDelete] Legacy of the Dragonborn - Hall of Forgotten - TCC**~~
+2. (Optional) If you want to harvest ROH plants. Install [Webmetz's More Growable Plants - Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/65912)
    - This mod allows you to plant bomb flowers and deku nuts
    - Install it under the name **[NoDelete] Relics of Hyrule SE - More Growables**
-6. (Optional) If you want a little convenience in crafting stations. Install [Relics of Hyrule Unofficial Add-on - Magic Crafting at Terminan Forge SE](https://www.nexusmods.com/skyrimspecialedition/mods/31935)
+3. (Optional) If you want a little convenience in crafting stations. Install [Relics of Hyrule Unofficial Add-on - Magic Crafting at Terminan Forge SE](https://www.nexusmods.com/skyrimspecialedition/mods/31935)
    - This mod places some extra crafting stations near the Terminan Forge
    - Install it under the name **[NoDelete] Relics of Hyrule SE - Magic Crafting at Terminan Forge**
    - Ignore the Zora Patch and Keyword Patch. Those are included in the final patch
