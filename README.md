@@ -19,7 +19,6 @@ Pulled from the Mod Page.
 
 # Installation
 1. Download [Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/12244). 
-   - Do not install the Hotfix.
    - Install it under the name **[NoDelete] Relics of Hyrule SE**
 2. (Optional) If you don't want fairies, Install the [Disable and Silence Fairies](https://www.nexusmods.com/skyrimspecialedition/mods/12244).
    - Install under the name **[NoDelete] Relics of Hyrule SE - Fairy Replacer**
